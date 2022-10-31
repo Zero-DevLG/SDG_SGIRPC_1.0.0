@@ -1,0 +1,50 @@
+#menu_datos
+{
+    position: relative;
+    display: flex;
+}
+
+
+#options
+{
+    position: relative;
+    top: 50px;
+    width: 8%;
+    height: 200px;
+    padding: 5px;
+    padding-top: 20px;
+    background-color: rgb(197, 197, 197);
+    border-radius: 10px;
+}
+
+#mostrar_datos
+{
+    position: relative;
+    left: 10px;
+    width: 93%;
+}
+
+#mostrar_datos input
+{
+    position: relative;
+    font-size: 11px !important;
+}
+.button-options
+{
+    position: relative;
+    margin-bottom: 50px;
+    margin: auto;
+}
+
+.button-options img
+{
+    position: relative;
+    width: 20px;
+    margin: auto;
+}
+
+.modal-backdrop
+{
+    position: fixed;
+    z-index: -1 !important;
+}
